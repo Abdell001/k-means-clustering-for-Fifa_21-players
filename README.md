@@ -1,3 +1,3 @@
 # k-means-clustering-for-Fifa_21-players
-Created using Jupyter Lab
-In this projected, I created an algorithm using python 
+# Project Overview
+In this project, I used k-means clustering (an unsupervised machine learning technique) to
